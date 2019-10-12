@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d664a61f-b153-4df2-8002-ddfc97c65de8" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="d664a61f-b153-4df2-8002-ddfc97c65de8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/users/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bootstrapping..." beforeDir="false" afterPath="$PROJECT_DIR$/Bootstrapping..." afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compressing..." beforeDir="false" afterPath="$PROJECT_DIR$/Compressing..." afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Launching..." beforeDir="false" afterPath="$PROJECT_DIR$/Launching..." afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
+>>>>>>> filling-layout-style
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +116,7 @@
       <path value="$PROJECT_DIR$/vendor/facade/ignition" />
       <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
       <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1S2R77DEhcjN1VRPbRMvKxtzzFZ" />
@@ -111,7 +124,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/static_pages" />
+    <property name="last_opened_file_path" value="D:/phpstudy/PHPTutorial/WWW/nqw" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -148,7 +161,8 @@
       <updated>1570759533511</updated>
       <workItem from="1570759534670" duration="1573000" />
       <workItem from="1570777310782" duration="601000" />
-      <workItem from="1570784836968" duration="922000" />
+      <workItem from="1570784836968" duration="2141000" />
+      <workItem from="1570846807577" duration="2051000" />
     </task>
     <servers />
   </component>
