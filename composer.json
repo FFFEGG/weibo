@@ -50,7 +50,7 @@
             "database/factories"
         ],
         "files": [
-            "app/helps.php"
+            "app/helpers.php"
         ]
     },
     "minimum-stability": "dev",
